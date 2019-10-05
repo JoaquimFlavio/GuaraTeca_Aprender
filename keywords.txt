@@ -1,0 +1,34 @@
+#######################################
+# Syntaxe de cores do GuaraTeca_OBR
+#######################################
+
+#######################################
+# Funções especiais (KEYWORD1)
+#######################################
+
+Led	KEYWORD1	Led
+caixaSom	KEYWORD1	caixaSom
+Botao	KEYWORD1	Botao
+Sensor_temperatura	KEYWORD1	Sensor_temperatura
+Sensor_ultrassonico	KEYWORD1	Sensor_ultrassonico
+Sensor_linha	KEYWORD1	Sensor_linha
+Servo_motor	KEYWORD1	Servo_motor
+Motor_shield	KEYWORD1	Motor_shield
+
+#######################################
+# Metodos e Funções (KEYWORD2)
+#######################################
+
+liga	        KEYWORD2
+desliga 	    KEYWORD2
+apita   	    KEYWORD2
+toque	        KEYWORD2
+musica	        KEYWORD2
+estado	        KEYWORD2
+temperatura	    KEYWORD2
+umidade	        KEYWORD2
+leitura         KEYWORD2
+posicao         KEYWORD2
+horario	        KEYWORD2
+anti_horario	    KEYWORD2
+velocidade	    KEYWORD2
